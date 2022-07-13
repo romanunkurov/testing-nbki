@@ -1,5 +1,6 @@
+package src.main.java.ru.nbki.fizzbuzz;
 
-public class CustomStringReplaceImpl {
+public class CustomIntReplaceImpl {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
@@ -18,5 +19,4 @@ public class CustomStringReplaceImpl {
             }
         }
     }
-
 }
