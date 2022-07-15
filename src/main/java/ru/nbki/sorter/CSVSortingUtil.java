@@ -13,5 +13,5 @@ public class CSVSortingUtil {
         converter.doSort();
     }
 
-    // Сложность алгоритма сортировки по big O notation = O(n * (log n) * c, где с - временная сложность компаратора
+    // Сложность алгоритма сортировки по big O notation = O(n * (log n) * c), где с - временная сложность компаратора
 }
