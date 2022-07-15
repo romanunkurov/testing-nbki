@@ -12,4 +12,6 @@ public class CSVSortingUtil {
         CsvConverter converter = new CsvConverter(CSV, CSV_NEW, true);
         converter.doSort();
     }
+
+    // Сложность алгоритма сортировки по big O notation = O(n * (log n) * c, где с - временная сложность компаратора
 }
